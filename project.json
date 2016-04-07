@@ -1,0 +1,7 @@
+{
+    "name": "y",
+    "role": "arn:aws:iam::710715019992:role/lambda_basic_execution",
+    "memory": 512,
+    "timeout": 30
+}
+
